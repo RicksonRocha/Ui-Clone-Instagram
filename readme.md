@@ -1,6 +1,6 @@
 <h1>Ui Clone do Instagram</h1>
 <h2>O que é esse projeto?</h2>
-<p>Um clone da interface do Instagram para treinar minhas habilidades com Front-end.</p>
+<p>Um clone da interface do Instagram, página de feed, para treinar minhas habilidades com Front-end.</p>
 <ol>
   <li>Integração com API.</li>
   <li>Paginação e scroll infinito</li>
